@@ -49,6 +49,5 @@
 
 
 <h2> Teste prático</h2>
+<h2>1. Modelo Relacional</h2>
 
-
-![teste](./teste.pbix)
